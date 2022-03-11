@@ -2,7 +2,7 @@
 
 ## Terminology
 
-- pcaket : 네트워크 가장 작은 단위
+- packet : 네트워크 가장 작은 단위
 - protocol : 통신하기 위한 약속, 규약
 
 </br>
